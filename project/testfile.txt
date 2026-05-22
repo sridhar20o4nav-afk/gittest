@@ -1,1 +1,0 @@
-Hello world "Im sridhar and Im learning devops"
